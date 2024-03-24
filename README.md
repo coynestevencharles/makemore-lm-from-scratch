@@ -1,3 +1,12 @@
+# makemore-lm-from-scratch
+
+Re-implementation of Andrej Karpathy's "makemore: An autoregressive character-level language model for making more things," done as part of a review of NLP fundamentals. 
+
+Model backbones currently implemented:
+
+- None
+
+Original (full) description of makemore below:
 
 # makemore
 
